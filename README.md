@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -34,7 +34,7 @@ I'm particularly interested in cloud infrastructure, Linux, networking, automati
 - 📊 Monitoring
 - 🔧 Git & GitHub
 
----
+
 
 ## ⚡ Skills
 
@@ -72,11 +72,10 @@ I'm particularly interested in cloud infrastructure, Linux, networking, automati
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
 
 ## 📚 What I'm Learning
 
-```text
+text
 Cloud Computing
       │
       ├── AWS
